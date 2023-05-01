@@ -8,13 +8,13 @@ const About = () => {
       <Head>
         <title>About Calculator App</title>
       </Head>
-      <div className="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
+      <div className="w-[90%]  mx-auto px-4 py-16 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
             About Calculator App
           </h1>
         </div>
-        <div className="mt-16 text-xl text-gray-700 leading-8">
+        <div className="mt-16  text-4xl text-gray-700 leading-relaxed">
           <p>
             Calculator App is a simple web application for doing basic math calculations. It was created using Next.js,
             a React-based web framework, and Tailwind CSS, a utility-first CSS framework.
